@@ -1,7 +1,8 @@
 Download: https://github.com/Devocub/FSR-2.0-Cyberpunk-mod/releases
 # FSR-2.0-Cyberpunk-mod  
 AMD FSR 2.0 videofeed upscale technology for game "Cyberpunk 2077"  
-https://www.youtube.com/watch?v=Trb7PG00X2Y
+https://www.youtube.com/watch?v=Trb7PG00X2Y  
+https://youtu.be/5b89-iaMq08  
 
 Follow this guide (basically replace game files and enable signature override.reg)  
  https://www.nexusmods.com/cyberpunk2077/mods/3001  
@@ -13,6 +14,7 @@ then replace "Cyberpunk 2077\bin\x64\nvngx.dll" in game folder by new one from "
 This mod: https://github.com/Devocub/FSR-2.0-Cyberpunk-mod  
 Original mod: https://www.nexusmods.com/cyberpunk2077/mods/3001  
 Original mod src: https://github.com/PotatoOfDoom/CyberFSR2  
+FSR2 src: https://github.com/GPUOpen-Effects/FidelityFX-FSR2  
 
 [![All Releases](https://img.shields.io/github/downloads/Devocub/FSR-2.0-Cyberpunk-mod/total.svg?style=for-the-badge&logo=appveyor)](https://github.com/Devocub/TabletDriver/releases)
 [![All Releases](https://img.shields.io/github/downloads/Devocub/FSR-2.0-Cyberpunk-mod/latest/total.svg?style=for-the-badge&logo=appveyor)](https://github.com/Devocub/TabletDriver/releases/latest)
