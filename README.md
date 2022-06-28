@@ -2,7 +2,7 @@
 AMD FSR 2.0 videofeed upscale technology for game "Cyberpunk 2077"  
 https://www.youtube.com/watch?v=Trb7PG00X2Y
 
-Follow this guide (basically replace game files and enable signature override.reg)
+Follow this guide (basically replace game files and enable signature override.reg)  
  https://www.nexusmods.com/cyberpunk2077/mods/3001  
 (files here in "1 PotatoOfDoom" folder)   
   
