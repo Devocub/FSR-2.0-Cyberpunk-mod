@@ -1,6 +1,6 @@
 Download: https://github.com/Devocub/FSR-2.0-Cyberpunk-mod/releases
 # FSR-2.0-Cyberpunk-mod  
-AMD FSR 2.0 videofeed upscale technology for game "Cyberpunk 2077"  
+AMD FSR 2.0 upscale technology for game "Cyberpunk 2077"  
 https://www.youtube.com/watch?v=Trb7PG00X2Y  
 https://youtu.be/5b89-iaMq08  
 https://youtu.be/PAp3WDzv7W8  
