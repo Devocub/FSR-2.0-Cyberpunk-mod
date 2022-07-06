@@ -3,6 +3,7 @@ Download: https://github.com/Devocub/FSR-2.0-Cyberpunk-mod/releases
 AMD FSR 2.0 videofeed upscale technology for game "Cyberpunk 2077"  
 https://www.youtube.com/watch?v=Trb7PG00X2Y  
 https://youtu.be/5b89-iaMq08  
+https://youtu.be/PAp3WDzv7W8  
 
 Follow this guide (basically replace game files and enable signature override.reg)  
  https://www.nexusmods.com/cyberpunk2077/mods/3001  
